@@ -1,0 +1,23 @@
+---
+title: "Untitled"
+output: html_document
+bibliography: references.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+
+# Introduction
+
+* read in data
+
+# Analysis
+
+* calculate summary statistics
+* calculate mean Redfield ratio
+* plot Redfield ratio
+
